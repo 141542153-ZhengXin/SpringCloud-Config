@@ -1,1 +1,2 @@
-aa
+config:
+  info:"config-dev.yml version1"
